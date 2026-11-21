@@ -1,3 +1,2 @@
-# Design preview. Not for indexing.
 User-agent: *
 Disallow: /
